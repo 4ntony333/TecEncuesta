@@ -73,5 +73,3 @@ Esta aplicación permite registrar a personas con necesidades tecnológicas y as
 * Si deseas exportar los resultados, puedes adaptar el código para generar archivos `.txt` o `.csv`.
 
 ---
-
-¿Quieres que te lo pase también en formato Word o PDF, Antony? Puedo dejártelo como archivo en el siguiente mensaje 😉
